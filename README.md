@@ -10,5 +10,3 @@
 ![Tamma's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratamatama&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide=issues)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratamatama&layout=compact&theme=radical&hide_border=true)
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/pratamatama.png" alt="TryHackMe">
