@@ -8,4 +8,4 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-[ ![pratamatama](https://www.hackthebox.eu/badge/image/953029)](https://www.hackthebox.eu/home/users/profile/953029)
+[ ![pratamatama](https://www.hackthebox.eu/badge/image/953029)](https://app.hackthebox.com/profile/953029)
