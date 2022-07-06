@@ -48,6 +48,8 @@ jobs:
           plugin_wakatime_user: pratamatama
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_activity: yes
+          plugin_topics: yes
+          plugin_topics_mode: icons
       
       - name: Metrics 2
         uses: lowlighter/metrics@latest
