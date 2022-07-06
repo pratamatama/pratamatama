@@ -1,16 +1,3 @@
-![Tamma's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratamatama&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide=issues)
-
-<!--START_SECTION:waka-->
-
-```text
-Vue.js       11 hrs 30 mins  ████████████▒░░░░░░░░░░░░   48.67 %
-TypeScript   8 hrs 46 mins   █████████▒░░░░░░░░░░░░░░░   37.11 %
-JavaScript   1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
-CSS          45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-JSON         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Bash         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-```
-
-<!--END_SECTION:waka-->
+![Metrics](https://metrics.lecoq.io/pratamatama?template=classic&base.hireable=true&isocalendar=1&languages=1&achievements=1&notable=1&habits=1&base.indepth=false&base.hireable=true&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=all&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FJakarta)
 
 [ ![pratamatama](https://www.hackthebox.eu/badge/image/953029)](https://app.hackthebox.com/profile/953029)
