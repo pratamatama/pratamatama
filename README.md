@@ -1,3 +1,4 @@
+<img src="https://tryhackme-badges.s3.amazonaws.com/pratamatama.png" alt="THM Badge">
 <div>
   <img src="/metrics1.svg" width="46%" />
   &emsp;&emsp;
