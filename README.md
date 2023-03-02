@@ -3,5 +3,5 @@
   &emsp;&emsp;
   <img src="/metrics2.svg" width="49%" />
 </div>
-<script src="https://tryhackme.com/badge/969575"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/pratamatama.png" alt="TryHackMe">
 <img src="/1276538.jpg " width="100%" />
