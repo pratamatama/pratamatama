@@ -4,4 +4,4 @@
   <img src="/metrics2.svg" width="49%" />
 </div>
 <img src="https://tryhackme-badges.s3.amazonaws.com/pratamatama.png" alt="TryHackMe">
-<img src="/1276538 (1).png " width="100%" />
+<img src="/1195615 (1).png " width="100%" />
